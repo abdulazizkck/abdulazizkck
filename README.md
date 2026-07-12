@@ -64,9 +64,3 @@ Currently building AI-powered industrial analytics solutions.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night&hide_border=true"/>
 </p>
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulazizkck&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
