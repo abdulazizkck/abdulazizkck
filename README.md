@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Abdulaziz Küçük
 
-<!--
-**abdulazizkck/abdulazizkck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI • Industrial Data Analytics • Home Assistant • Python • ESP32
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I build AI-powered industrial automation systems, data analytics solutions and smart home projects.
+
+Currently focusing on:
+
+- 🤖 Artificial Intelligence
+- 🏭 Industrial Data Analytics
+- 🏠 Home Assistant
+- 🐍 Python
+- ⚡ ESP32
+- 📊 Data Visualization
+
+---
+
+## 🛠 Tech Stack
+
+Python • Git • GitHub • SQL • ESP32 • Home Assistant
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Computer Vision
+- LLM Applications
+- Data Engineering
+
+---
+
+## 📌 Featured Projects
+
+Coming Soon...
