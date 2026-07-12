@@ -52,10 +52,10 @@ Currently building AI-powered industrial analytics solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdulazizkck-181717?style=for-the-badge&logo=github)](https://github.com/abdulazizkck)
 
-## 📊 GitHub Activity
+## 📊 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=abdulazizkck&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📈 Contribution Graph
