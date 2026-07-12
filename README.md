@@ -48,13 +48,9 @@ Currently building AI-powered industrial analytics solutions.
 🎥 AI Content Generation
 
 ---
+## 📫 Connect
 
-# 📫 Connect
-
-GitHub
-
-abdulazizkck
----
+[![GitHub](https://img.shields.io/badge/GitHub-abdulazizkck-181717?style=for-the-badge&logo=github)](https://github.com/abdulazizkck)
 
 ## 📊 GitHub Activity
 
