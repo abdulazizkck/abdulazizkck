@@ -76,3 +76,9 @@ abdulazizkck
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night"/>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdulazizkck&style=for-the-badge&color=blue"/>
+
+</p>
