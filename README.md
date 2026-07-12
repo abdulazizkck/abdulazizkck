@@ -55,12 +55,6 @@ GitHub
 
 abdulazizkck
 ---
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -72,16 +66,6 @@ abdulazizkck
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night&hide_border=true"/>
 </p>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdulazizkck&theme=tokyonight"/>
-
-</p>
-
-## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night"/>
 
