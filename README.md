@@ -72,3 +72,7 @@ abdulazizkck
 <img src="https://streak-stats.demolab.com?user=abdulazizkck&theme=tokyonight"/>
 
 </p>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night"/>
