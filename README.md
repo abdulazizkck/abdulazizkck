@@ -61,9 +61,17 @@ abdulazizkck
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulazizkck&show_icons=true&theme=tokyonight"/>
+## 📊 GitHub Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizkck&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulazizkck&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazizkck&theme=tokyo-night&hide_border=true"/>
+</p>
 
 </p>
 
