@@ -1,39 +1,56 @@
-# Hi 👋 I'm Abdulaziz Küçük
+<h1 align="center">Hi 👋 I'm Abdulaziz Küçük</h1>
 
-### AI • Industrial Data Analytics • Home Assistant • Python • ESP32
-
----
-
-## 🚀 About Me
-
-I build AI-powered industrial automation systems, data analytics solutions and smart home projects.
-
-Currently focusing on:
-
-- 🤖 Artificial Intelligence
-- 🏭 Industrial Data Analytics
-- 🏠 Home Assistant
-- 🐍 Python
-- ⚡ ESP32
-- 📊 Data Visualization
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=AI+Engineer;Industrial+Data+Analytics;Python+Developer;Home+Assistant+Enthusiast;ESP32+Developer" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-Python • Git • GitHub • SQL • ESP32 • Home Assistant
+I'm passionate about Artificial Intelligence, Industrial Automation and Smart Home technologies.
+
+Currently building AI-powered industrial analytics solutions.
 
 ---
 
-## 🌱 Currently Learning
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,sqlite,docker,raspberrypi&theme=dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - Machine Learning
 - Computer Vision
 - LLM Applications
-- Data Engineering
+- Industrial AI
+- Home Assistant
+- ESP32
 
 ---
 
-## 📌 Featured Projects
+# 📌 Current Projects
 
-Coming Soon...
+🏭 Industrial AI Analytics
+
+🏠 Smart Home Automation
+
+📊 Paper Manufacturing Analytics
+
+🤖 ESP32 Projects
+
+🎥 AI Content Generation
+
+---
+
+# 📫 Connect
+
+GitHub
+
+abdulazizkck
